@@ -1,7 +1,7 @@
 ## Todo-App Demo Link
 
 You can view the site here
-[Click Me](https://hdogukanozkan.github.io/Todo-App/)
+[Click Me](https://hdogukanozkan.github.io/Todo-App/).
 
 
 
